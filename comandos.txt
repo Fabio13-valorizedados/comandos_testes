@@ -1,1 +1,5 @@
 meu primeiro arquivo.
+cat ~/.ssh/id_ed25519.pub
+mais alterações no documento.
+
+você salvou ?
